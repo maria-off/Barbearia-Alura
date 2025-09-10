@@ -119,7 +119,7 @@ form input{
 }
 
 body{
-    background-image: url(../imagens/banner.jpg);
+    background-image: url(banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -138,5 +138,6 @@ body{
 }
 a{
 padding: 10px;
+
 
 }
